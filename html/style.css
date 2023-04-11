@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: gold;
+    text-align: left;
+}
+#img1{
+    height: 300px;
+    width: 300px;
+}
+#drip{
+    height: 300px;
+    width: 300px;
+}
+p{
+    color:white;
+}
